@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amir-khaleghi
-- 👀 I’m interested in Data Science, AI, Web Development and any Thing That is Challenging and have a Future.
+- 👀 I’m interested in Data Science, AI, Web Development and any Thing That is Challenging.
 - 🌱 I’m currently learning HTML , CSS, JAVASCRIPT and PYTHON.
 - 💞️ I’m looking to collaborate on new startups.
 - 📫 How to reach me : a.kh.d94@gmail.com
