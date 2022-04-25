@@ -8,7 +8,7 @@ I’m Interested in Data Science, AI, Web Development and anything That is Chall
 
 * 🌍  I'm based in Kerman and Tehran
 * ✉️  You can contact me at [a.khaleghi.d@gmail.com](mailto:a.khaleghi.d@gmail.com)
-* 🧠  I'm learning Learning Advance JavaScript, React and Fundamentals of data science.
+* 🧠  I'm learning JavaScript, React and Fundamentals of data science.
 * 🤝  I'm open to collaborating on Interesting Projects.
 
 ### Skills
