@@ -1,7 +1,7 @@
 Hi 👋 My name is Amir Khaleghi
 ==============================
 
-Junior Web Developer.
+Newbie Web Developer.
 --------------------------
 
 I’m Interested in Data Science, AI, Web Development and anything That is Challenging. I'm trying to improve my skills in this areas.
